@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **Frontend and Backend**
-
 - 📫 How to reach me **vineetaneekhra4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
