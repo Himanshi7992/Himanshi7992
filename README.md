@@ -1,14 +1,10 @@
-## Hi there 👋
-<h1 align="center"> I'm Himanshi Neekhra</h1>
-<h3 align="center">A frontend developer</h3>
+## Himanshi Neekhra | Engineer | Learner🌱
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshi7992&label=Profile%20views&color=0e75b6&style=flat" alt="himanshi7992" /> </p>
 
 - 🔭 I’m currently working on **Frontend & Backend**
 
 - 🌱 I’m currently learning **Frameworks**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Himanshi7992](https://github.com/Himanshi7992)
 
 - 💬 Ask me about **Frontend and Backend**
 
