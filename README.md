@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Frontend & Backend**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m Currently learning **SQL** and exploring different **database** like **MS SQL SERVER**,**POSTGRESQL**,**MYSQL** 
 
 - 📫 How to reach me **vineetaneekhra4@gmail.com**
 
